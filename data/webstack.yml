@@ -600,7 +600,7 @@
           description: IT 互联网开源编程书籍免费阅读与下载
         - title: 鸠摩搜索
           url: https://www.jiumodiary.com/
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: https://www.jiumodiary.com/images/favicon.png
           description: 偏向于图书搜索
           
     - term: 博客论坛
@@ -623,6 +623,7 @@
           description: 阮一峰，科技爱好者周刊
         - title: 酷壳
           url: https://www.coolshell.cn/
+          logo: https://www.coolshell.cn/favicon.ico
           description: 酷 壳 – CoolShell
     - term: 设计规范
       links:
