@@ -23,22 +23,14 @@
       logo: https://api.iowen.cn/favicon/ddys.tv.png
       url: https://ddys.tv
       description: 低端影视高质量线上影库
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区
+    - title: Mobile01
+      logo: https://api.iowen.cn/favicon/www.mobile01.com.png
+      url: https://www.mobile01.com/
+      description: Mobile01台湾
+    - title: 简单
+      logo: https://api.iowen.cn/favicon/i.jandan.net.png
+      url: https://i.jandan.net/
+      description: 煎蛋无聊图
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.v2ex.com/
@@ -465,6 +457,10 @@
           url: https://www.figma.com/
           logo: figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
+        - title: pixso
+          url: https://pixso.cn/
+          logo: https://api.iowen.cn/favicon/pixso.cn.png
+          description: 在线编辑ps sketch 文件
     - term: 在线配色
       links:
         - title: khroma
@@ -557,7 +553,14 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
-        
+        - title: MPEditor
+          logo: https://api.iowen.cn/favicon/js8.in.png
+          url: http://js8.in/mpeditor/
+          description: 微信公众号 Markdown 编辑器
+        - title: Doocs
+          logo: https://api.iowen.cn/favicon/doocs.github.io.png
+          url: https://doocs.github.io/md/
+          description: 一款高度简洁的微信 Markdown 编辑器
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -599,6 +602,11 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载
+        - title: 鸠摩搜索
+          url: https://www.jiumodiary.com/
+          logo: https://api.iowen.cn/www.jiumodiary.com.png
+          description: 偏向于图书搜索
+          
     - term: 博客论坛
       links:
         - title: Inoreader
