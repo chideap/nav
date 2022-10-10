@@ -15,10 +15,6 @@
       logo: https://api.iowen.cn/favicon/m.cls.cn.png
       url: https://m.cls.cn/index
       description: 财联社7*24小时
-    - title: B 站
-      logo: 哔哩哔哩.png
-      url: https://m.bilibili.com/
-      description: B 站就不介绍了
     - title: DDYS 影视
       logo: https://api.iowen.cn/favicon/ddys.tv.png
       url: https://ddys.tv
@@ -627,7 +623,6 @@
           description: 阮一峰，科技爱好者周刊
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: ''
           description: 酷 壳 – CoolShell
     - term: 设计规范
       links:
