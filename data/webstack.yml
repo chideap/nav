@@ -101,11 +101,15 @@
         - title: Excalidraw | Hand-drawn look & feel • Collaborative • Secure
           logo: https://excalidraw.com/favicon.ico
           url: https://excalidraw.com/
-          description: Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn
+          description: Excalidraw 在线白板工具
         - title: 有道翻译
           logo: 有道词典.png
           url: http://fanyi.youdao.com/
           description: 有道翻译
+        - title: Koodo Reade
+          logo: https://reader.960960.xyz/favicon.png
+          url: https://reader.960960.xyz/
+          description: Free Epub Reader for Windows, Mac and Web
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
@@ -114,6 +118,10 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作
+        - title: Flowchart Maker Online Diagram Software
+          url: https://app.diagrams.net/
+          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          description: diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -571,6 +579,10 @@
           logo: https://chideap.github.io/nav/assets/images/logos/default.webp
           url: https://www.keybr.com/
           description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
+        - title: Arya - 在线 Markdown 编辑器
+          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          url: https://markdown.lovejade.cn/
+          description: Arya，是一款基于 Vue、Vditor，为未来而构建的在线 Markdown 编辑器
     - term: 谷歌插件
       links:
         - title: wappalyzer
