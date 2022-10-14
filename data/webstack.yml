@@ -114,8 +114,6 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作
-        
-
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -633,7 +631,7 @@
         - title: 书格
           url: https://new.shuge.org/
           logo: https://new.shuge.org/wp-content/uploads/2018/06/shugeorg-icon.png
-          description: 書格（Shuge.org）是一个自由开放的在线古籍图书馆
+          description: 書格是一个自由开放的在线古籍图书馆
         - title: 中国哲学书电子化计划
           url: https://ctext.org/zhs
           logo: https://ctext.org/static/apple-touch-icon.png
