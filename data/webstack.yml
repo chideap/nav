@@ -98,10 +98,10 @@
           description: 云桌面,一站式云电脑服务平台
     - term: 办公学习
       links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译
+        - title: Excalidraw | Hand-drawn look & feel • Collaborative • Secure
+          logo: https://excalidraw.com/favicon.ico
+          url: https://excalidraw.com/
+          description: Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn
         - title: 有道翻译
           logo: 有道词典.png
           url: http://fanyi.youdao.com/
@@ -573,6 +573,8 @@
           logo: https://chideap.github.io/nav/assets/images/logos/default.webp
           url: https://www.keybr.com/
           description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
+        
+        https://links.bestxtools.com/http/www.wenangou.com/xieyin.html
     - term: 谷歌插件
       links:
         - title: wappalyzer
