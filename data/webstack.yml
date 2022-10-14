@@ -32,7 +32,7 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
     - title: MVCAT
-      logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+      logo: https://www.mvcat.com/img/logo_appicon.png
       url: https://www.mvcat.com
       description: 人生如戏，你是主角
     - title: 语雀话题
@@ -617,8 +617,35 @@
         - title: 鸠摩搜索
           url: https://www.jiumodiary.com/
           logo: https://www.jiumodiary.com/images/favicon.png
-          description: 偏向于图书搜索
-          
+          description: 图书搜索
+        - title: 全国图书馆参考咨询联盟
+          url: https://www.ucdrs.superlib.net
+          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          description: 图书信息和图书馆，非常全面
+        - title: 问津搜索
+          url: http://find.nlc.cn/
+          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          description: 国图文津图书信息搜索
+        - title: 首个基于EOS和IPFS的去中心化知识共享社区
+          url: https://ebook2.lorefree.com/
+          logo: https://lorefree.com/static/images/apple-touch-icon.png
+          description: Empowering everyone to build reliable and efficient software
+        - title: 书格
+          url: https://new.shuge.org/
+          logo: https://new.shuge.org/wp-content/uploads/2018/06/shugeorg-icon.png
+          description: 書格（Shuge.org）是一个自由开放的在线古籍图书馆
+        - title: 中国哲学书电子化计划
+          url: https://ctext.org/zhs
+          logo: https://ctext.org/static/apple-touch-icon.png
+          description: 全球最大的中国古籍资料库和检索系统，将中国的古代哲学书及其相关的原典文献加以电子化
+        - title: Sci-Hub: 对每个人的知识
+          url: https://sci-hub.se/
+          logo: https://sci-hub.se/favicon.ico
+          description: Sci-Hub网站
+        - title: E-book library. Search and download for free, instantly
+          url: https://vdoc.pub/
+          logo: https://vdoc.pub/theme/static/images/favicon/favicon-32x32.png
+          description: Our website have hundred thousands of free e-books and documents for students. All are free and downloadable.
     - term: 博客论坛
       links:
         - title: Inoreader
