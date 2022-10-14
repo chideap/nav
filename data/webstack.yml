@@ -636,10 +636,10 @@
           url: https://ctext.org/zhs
           logo: https://ctext.org/static/apple-touch-icon.png
           description: 全球最大的中国古籍资料库和检索系统，将中国的古代哲学书及其相关的原典文献加以电子化
-        - title: Sci-Hub: 对每个人的知识
-          url: https://sci-hub.se/
+        - title: Sci-Hub对每个人的知识
+          url: Sci-Hub
           logo: https://sci-hub.se/favicon.ico
-          description: Sci-Hub网站
+          description: Sci-Hub网站，论文资料查询
         - title: E-book library. Search and download for free, instantly
           url: https://vdoc.pub/
           logo: https://vdoc.pub/theme/static/images/favicon/favicon-32x32.png
