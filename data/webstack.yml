@@ -32,7 +32,7 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
     - title: MVCAT
-      logo: https://chideap.github.io/nav/assets/images/favicon.png
+      logo: https://chideap.github.io/nav/assets/images/logos/default.webp
       url: https://www.mvcat.com
       description: 人生如戏，你是主角
     - title: 语雀话题
@@ -85,7 +85,7 @@
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云
         - title: 云筏科技
-          logo: https://chideap.github.io/nav/assets/images/favicon.png
+          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
           url: https://my.cloudraft.cn/
           description: 云筏 - 科研云
         - title: 极云普惠云电脑
