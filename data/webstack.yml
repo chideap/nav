@@ -569,6 +569,10 @@
           logo: https://www.autopiano.cn/favicon.ico
           url: https://www.autopiano.cn/
           description: 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
+        - title: Typing Practice
+          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          url: https://www.keybr.com/
+          description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
     - term: 谷歌插件
       links:
         - title: wappalyzer
