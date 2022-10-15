@@ -13,7 +13,7 @@
       description: 集思录指数 ETF 
     - title: 财联社电报
       logo: https://api.iowen.cn/favicon/m.cls.cn.png
-      url: https://m.cls.cn/index
+      url: https://www.cls.cn/telegraph
       description: 财联社7*24小时
     - title: DDYS 影视
       logo: https://api.iowen.cn/favicon/ddys.tv.png
@@ -85,7 +85,7 @@
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云
         - title: 云筏科技
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: default.webp
           url: https://my.cloudraft.cn/
           description: 云筏 - 科研云
         - title: 极云普惠云电脑
@@ -120,7 +120,7 @@
           description: 免费在线作图、实时协作
         - title: Flowchart Maker Online Diagram Software
           url: https://app.diagrams.net/
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: default.webp
           description: diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -576,13 +576,17 @@
           url: https://www.autopiano.cn/
           description: 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
         - title: Typing Practice
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: default.webp
           url: https://www.keybr.com/
           description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
         - title: Arya - 在线 Markdown 编辑器
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: default.webp
           url: https://markdown.lovejade.cn/
           description: Arya，是一款基于 Vue、Vditor，为未来而构建的在线 Markdown 编辑器
+        - title: Picdiet - 极速在线压缩80%图片体积
+          logo: https://www.picdiet.com/css/favicon.ico
+          url: https://www.picdiet.com/zh-cn
+          description: Picdiet是一款用JavaScript编写而成的图片压缩神器
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -630,11 +634,11 @@
           description: 图书搜索
         - title: 全国图书馆参考咨询联盟
           url: https://www.ucdrs.superlib.net
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: default.webp
           description: 图书信息和图书馆，非常全面
         - title: 问津搜索
           url: http://find.nlc.cn/
-          logo: https://chideap.github.io/nav/assets/images/logos/default.webp
+          logo: default.webp
           description: 国图文津图书信息搜索
         - title: 首个基于EOS和IPFS的去中心化知识共享社区
           url: https://ebook2.lorefree.com/
