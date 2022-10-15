@@ -119,9 +119,9 @@
           url: https://www.processon.com/
           description: 免费在线作图、实时协作
         - title: Flowchart Maker Online Diagram Software
-          url: https://api.iowen.cn/favicon/app.diagrams.net/favicon.png
-          logo: default.webp
-          description: diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+          url: https://app.diagrams.net
+          logo: https://api.iowen.cn/favicon/app.diagrams.net/favicon.png
+          description: diagrams在线白图表工具
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
