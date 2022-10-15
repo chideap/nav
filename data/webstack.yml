@@ -85,7 +85,7 @@
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云
         - title: 云筏科技
-          logo: default.webp
+          logo: https://api.iowen.cn/favicon/www.cloudraft.cn/favico.png
           url: https://my.cloudraft.cn/
           description: 云筏 - 科研云
         - title: 极云普惠云电脑
@@ -572,7 +572,7 @@
           url: https://jpgtopngconverter.com/compress-png-to-100kb/
           description: 压缩图片到特定大小
         - title: 自由钢琴
-          logo: https://www.autopiano.cn/favicon.ico
+          logo: https://api.iowen.cn/favicon/www.autopiano.cn/favico.png
           url: https://www.autopiano.cn/
           description: 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
         - title: Typing Practice
@@ -584,7 +584,7 @@
           url: https://markdown.lovejade.cn/
           description: Arya，是一款基于 Vue、Vditor，为未来而构建的在线 Markdown 编辑器
         - title: Picdiet - 极速在线压缩80%图片体积
-          logo: https://www.picdiet.com/css/favicon.ico
+          logo: https://api.iowen.cn/favicon/www.picdiet.com/favico.png
           url: https://www.picdiet.com/zh-cn
           description: Picdiet是一款用JavaScript编写而成的图片压缩神器
     - term: 谷歌插件
@@ -680,7 +680,7 @@
           description: 阮一峰，科技爱好者周刊
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: https://www.coolshell.cn/favicon.ico
+          logo: https://api.iowen.cn/favicon/www.coolshell.cn/favico.png
           description: 酷 壳 – CoolShell
     - term: 设计规范
       links:
