@@ -41,61 +41,35 @@
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
-- taxonomy: 科研办公
+- taxonomy: 媒体资讯
   icon: fas fa-flask fa-lg
   list:
-    - term: 生物信息
+    - term: 科技软件
       links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云
-        - title: 腾讯云
-          logo: 腾讯云.jpg
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云
-        - title: 云筏科技
-          logo: https://api.iowen.cn/favicon/www.cloudraft.cn/favico.png
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台
+        - title: 奇客资讯网
+          logo: https://api.iowen.cn/favicon/solidot.org/logo.png
+          url: https://www.solidot.org
+          description: 主要面对开源自由软件和关心科技资讯读者群
+        - title: 小众软件
+          logo: https://api.iowen.cn/favicon/www.appinn.com.png
+          url: https://www.appinn.com
+          description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
+        - title: 超能网
+          logo: https://api.iowen.cn/favicon/www.expreview.com.png
+          url: https://www.expreview.com/
+          description: 科技生活
+        - title: 爱活网
+          logo: https://api.iowen.cn/favicon/www.evolife.cn.png
+          url: https://www.evolife.cn
+          description: 科技进化生活，关注数码、科技、生活方式和消费升级
+        - title: 爱范儿
+          logo: https://api.iowen.cn/favicon/www.ifanr.com.png
+          url: https://www.ifanr.com/
+          description: 聚焦新创和消费主题的科技媒体
+        - title: 少数派
+          logo: https://api.iowen.cn/favicon/sspai.com.png
+          url: https://sspai.com
+          description: 少数派 - 高效工作，品质生活
     - term: 办公学习
       links:
         - title: Excalidraw | Hand-drawn look & feel • Collaborative • Secure
@@ -157,14 +131,14 @@
           description: 电影天堂（DYGOD），高清电影下载
     - term: 游戏竞技
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王
+        - title: 在线DOS游戏
+          logo: https://api.iowen.cn/favicon/dos.zczc.cz.png
+          url: https://dos.zczc.cz/
+          description: 回忆那个时代的游戏
+        - title: LOL
+          logo: https://api.iowen.cn/favicon/lol.qq.com.png
+          url: https://lol.qq.com
+          description: 拳头公司的拳头产品
    
       
 - taxonomy: 素材资源
