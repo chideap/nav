@@ -35,11 +35,6 @@
       logo: https://api.iowen.cn/favicon/www.mvcat.com/img/logo_appicon.png
       url: https://www.mvcat.com
       description: 人生如戏，你是主角
-    - title: 语雀话题
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
-
 
 - taxonomy: 媒体资讯
   icon: fas fa-flask fa-lg
@@ -503,6 +498,10 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+        - title: freieFarbe e.V.
+          url: https://www.freiefarbe.de
+          logo: default.webp
+          description: 由德国和瑞士的色彩专业人士联盟于 2016 年成立，是一家在德国注册的非营利性协会
     - term: 在线工具
       links:
         - title: tinypng
@@ -612,7 +611,7 @@
           description: 图书信息和图书馆，非常全面
         - title: 问津搜索
           url: http://find.nlc.cn/
-          logo: default.webp
+          logo: https://api.iowen.cn/favicon/www.nlc.cn.png
           description: 国图文津图书信息搜索
         - title: 首个基于EOS和IPFS的去中心化知识共享社区
           url: https://ebook2.lorefree.com/
