@@ -31,10 +31,6 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
-    - title: MVCAT
-      logo: https://api.iowen.cn/favicon/www.mvcat.com/img/logo_appicon.png
-      url: https://www.mvcat.com
-      description: 人生如戏，你是主角
 
 - taxonomy: 媒体资讯
   icon: fas fa-flask fa-lg
@@ -100,10 +96,10 @@
           logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷
+        - title: MVCAT
+          logo: https://api.iowen.cn/favicon/www.mvcat.com/img/logo_appicon.png
+          url: https://www.mvcat.com
+          description: 选部电影来看
         - title: 爱奇艺
           logo: 爱奇艺.png
           url: https://www.iqiyi.com/
