@@ -34,4 +34,4 @@ publishDir = "docs"
     unsafe = true
 
 [params.footer]
-    copyright = '这儿是 Hello Nav，联系邮箱：y5l838ge@duck.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Hello Nav](https://chideap.github.io/nav) | [无ICP备12345678号](https://chideap.github.io/nav)<br/>'
+    copyright = '这儿是 Hello Nav，联系邮箱：y5l838ge@duck.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Hello Nav](https://chideap.github.io/nav) | [❤](https://gohugo.io/)<br/>'
