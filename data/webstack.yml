@@ -27,10 +27,19 @@
       logo: https://api.iowen.cn/favicon/i.jandan.net.png
       url: https://i.jandan.net/
       description: 煎蛋无聊图
+    - title: Hacker News
+      url: https://news.ycombinator.com/
+      logo: hacker-news.jpg
+      description: 关于计算机黑客和创业公司的社会化新闻网站。
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
+    - title: Hiplot
+      logo: https://api.iowen.cn/favicon/hiplot-academic.com/favico.png
+      url: https://hiplot-academic.com/
+      description: 综合性生物医学可视化分析工具箱
+    
 
 - taxonomy: 媒体资讯
   icon: fas fa-newspaper fa-lg
@@ -61,24 +70,60 @@
           logo: https://api.iowen.cn/favicon/sspai.com.png
           url: https://sspai.com
           description: 少数派 - 高效工作，品质生活
-    - term: 办公学习
+    - term: 英语词典
       links:
-        - title: Excalidraw | Hand-drawn look & feel • Collaborative • Secure
-          logo: https://api.iowen.cn/favicon/excalidraw.com.png
-          url: https://excalidraw.com/
-          description: Excalidraw 在线白板工具
-        - title: 有道翻译
+        - title: 朗文在线英语词典
+          url: https://www.ldoceonline.com/
+          logo: https://api.iowen.cn/favicon/www.ldoceonline.com.png
+          description: 单词皆是真人发音，内容全面
+        - title: 牛津OED
+          logo: https://api.iowen.cn/favicon/www.oed.com.png
+          url: https://www.oed.com/
+          description: 牛津OED需要付费才能使用
+        - title: 柯林斯在线英语词典
+          logo: https://api.iowen.cn/favicon/www.collinsdictionary.com/zh/dictionary/english.png
+          url: https://www.collinsdictionary.com/zh/dictionary/english
+          description: 柯林斯免费在线英语词典
+        - title: 剑桥在线英语词典
+          logo: https://api.iowen.cn/favicon/dictionary.cambridge.org/zhs.png
+          url: https://dictionary.cambridge.org/zhs/
+          description: 剑桥在线英语词典
+        - title: 金山词霸
+          logo: https://api.iowen.cn/favicon/www.iciba.com.png
+          url: http://www.iciba.com/
+          description: 国内很多年的老牌词典，也有翻译
+        - title: 有道词典
           logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译
-        - title: Koodo Reade
-          logo: https://api.iowen.cn/favicon/reader.960960.xyz/favicon.png
-          url: https://reader.960960.xyz/
-          description: Free Epub Reader for Windows, Mac and Web
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译
+    - term: 在线翻译
+      links:      
+        - title: Deepl翻译
+          logo: https://api.iowen.cn/favicon/www.deepl.com/translator.png
+          url: https://www.deepl.com/translator
+          description: 翻译文字和文档
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
           description: 谷歌翻译
+        - title: 百度翻译
+          logo: https://api.iowen.cn/favicon/fanyi.baidu.com.png
+          url: https://fanyi.baidu.com/
+          description: 查词、文献、文档、合同和人工付费翻译
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译
+    - term: 办公学习
+      links:
+        - title: Excalidraw
+          logo: https://api.iowen.cn/favicon/excalidraw.com.png
+          url: https://excalidraw.com/
+          description: Excalidraw 在线白板工具
+        - title: Koodo Reade在线阅读器
+          logo: https://api.iowen.cn/favicon/reader.960960.xyz/favicon.png
+          url: https://reader.960960.xyz/
+          description: Free Epub Reader for Windows, Mac and Web
         - title: ProcessOn
           logo: ProcessOn.png
           url: https://www.processon.com/
@@ -92,18 +137,10 @@
   list:
     - term: 影音视频
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看
         - title: MVCAT
           logo: https://api.iowen.cn/favicon/www.mvcat.com/img/logo_appicon.png
           url: https://www.mvcat.com
           description: 选部电影来看
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频
         - title: QQ 音乐
           logo: QQ音乐.jpg
           url: https://y.qq.com/
@@ -424,14 +461,14 @@
           url: https://creative.adobe.com/zh-cn/products/download/muse
           logo: MuseCC.png
           description: 无需利用编码即可进行网站设计
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
+        - title: 及时设计
+          url: https://js.design/
+          logo: default.webp
+          description: 在线设计软件
         - title: pixso
           url: https://pixso.cn/
           logo: https://api.iowen.cn/favicon/pixso.cn.png
-          description: 在线编辑ps sketch 文件
+          description: 在线设计软件
     - term: 在线配色
       links:
         - title: khroma
