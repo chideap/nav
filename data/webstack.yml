@@ -346,7 +346,7 @@
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
+          description: 微软Office官方在线模板网站！
         - title: 优品PPT
           url: http://www.ypppt.com/
           logo: ypppt.png
@@ -651,6 +651,10 @@
           url: https://www.coolshell.cn/
           logo: https://api.iowen.cn/favicon/www.coolshell.cn/favico.png
           description: 酷 壳 – CoolShell
+        - title: 王垠
+          url: https://www.yinwang.org/
+          logo: default.webp
+          description: 王垠的博客
     - term: 设计规范
       links:
         - title: Design Guidelines

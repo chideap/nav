@@ -1,6 +1,6 @@
 baseURL = "https://chideap.github.io/nav"
 languageCode = "zh-CN"
-title = "Hello Nav"
+title = "Hello Nav 常用导航"
 theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [params]
     author        = "Hiworld"
-    description   = "自用在线导航"
+    description   = "Hello Nav 自用在线导航"
     siteurl       = "./"
     about         = "./about"   # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/chideap/nav"  
@@ -34,4 +34,4 @@ publishDir = "docs"
     unsafe = true
 
 [params.footer]
-    copyright = '这儿是 Hello Nav，联系邮箱：y5l838ge@duck.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [自用导航](https://chideap.github.io/nav) | [无ICP备00000002号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '这儿是 Hello Nav，联系邮箱：y5l838ge@duck.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Hello Nav](https://chideap.github.io/nav) | [无ICP备12345678号](https://chideap.github.io/nav)<br/>'
