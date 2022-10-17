@@ -33,7 +33,7 @@
       description: V2EX 创意工作者的社区
 
 - taxonomy: 媒体资讯
-  icon: fas fa-flask fa-lg
+  icon: fas fa-newspaper fa-lg
   list:
     - term: 科技软件
       links:
@@ -545,11 +545,11 @@
           url: https://www.autopiano.cn/
           description: 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
         - title: Typing Practice
-          logo: default.webp
+          logo: https://api.iowen.cn/favicon/www.keybr.com/favico.png
           url: https://www.keybr.com/
           description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
         - title: Arya - 在线 Markdown 编辑器
-          logo: default.webp
+          logo: https://api.iowen.cn/favicon/markdown.lovejade.cn/img/icons/apple-touch-icon.png
           url: https://markdown.lovejade.cn/
           description: Arya，是一款基于 Vue、Vditor，为未来而构建的在线 Markdown 编辑器
         - title: Picdiet - 极速在线压缩80%图片体积
