@@ -105,7 +105,7 @@
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
-          description: 谷歌翻译
+          description: 查词和文档翻译
         - title: 百度翻译
           logo: https://api.iowen.cn/favicon/fanyi.baidu.com.png
           url: https://fanyi.baidu.com/
@@ -113,7 +113,7 @@
         - title: 有道翻译
           logo: 有道词典.png
           url: http://fanyi.youdao.com/
-          description: 有道翻译
+          description: 机翻和人工付费翻译
     - term: 办公学习
       links:
         - title: Excalidraw
