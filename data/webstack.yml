@@ -109,7 +109,7 @@
         - title: 百度翻译
           logo: https://api.iowen.cn/favicon/fanyi.baidu.com.png
           url: https://fanyi.baidu.com/
-          description: 查词、文献、文档、合同和人工付费翻译
+          description: 查词、翻译和人工付费翻译
         - title: 有道翻译
           logo: 有道词典.png
           url: http://fanyi.youdao.com/
@@ -133,7 +133,7 @@
           logo: https://api.iowen.cn/favicon/app.diagrams.net/favicon.png
           description: diagrams在线白图表工具
 - taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
+  icon: fas fa-magic fa-lg
   list:
     - term: 影音视频
       links:
