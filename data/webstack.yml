@@ -19,10 +19,10 @@
       logo: https://api.iowen.cn/favicon/ddys.tv.png
       url: https://ddys.tv
       description: 低端影视高质量线上影库
-    - title: Mobile01
-      logo: https://api.iowen.cn/favicon/www.mobile01.com.png
-      url: https://www.mobile01.com/
-      description: Mobile01台湾
+    - title: 经管之家
+      url: https://bbs.pinggu.org/
+      logo: 经管之家.jpg
+      description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站
     - title: 简单
       logo: https://api.iowen.cn/favicon/i.jandan.net.png
       url: https://i.jandan.net/
@@ -35,8 +35,6 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
-    
-    
 
 - taxonomy: 媒体资讯
   icon: fas fa-newspaper fa-lg
@@ -95,7 +93,7 @@
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯书籍
+    - term: 书籍资料
       links:
         - title: 微信读书
           url: https://weread.qq.com/
@@ -233,18 +231,6 @@
           description: Picdiet是一款用JavaScript编写而成的图片压缩神器
     - term: 博客论坛
       links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站
         - title: 阮一峰的网络日志
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
