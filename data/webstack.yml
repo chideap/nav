@@ -78,11 +78,11 @@
           url: https://www.mvcat.com
           description: 选部电影来看
         - title: 电影天堂（DYTT8）
-          logo: 电影天堂DYTT8.png
+          logo: 电影天堂.png
           url: https://www.dydytt.net/index2.htm
           description: 电影天堂（DYTT8），高清电影下载
         - title: 电影天堂（DYGOD）
-          logo: 电影天堂DYGOD.png
+          logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载
     - term: 游戏竞技
