@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 经常访问
   icon: far fa-star
   links: 
     - title: 驱动之家新闻中心
@@ -15,10 +15,6 @@
       logo: https://api.iowen.cn/favicon/m.cls.cn.png
       url: https://www.cls.cn/telegraph
       description: 财联社7*24小时
-    - title: DDYS 影视
-      logo: https://api.iowen.cn/favicon/ddys.tv.png
-      url: https://ddys.tv
-      description: 低端影视高质量线上影库
     - title: 经管之家
       url: https://bbs.pinggu.org/
       logo: 经管之家.jpg
@@ -35,16 +31,16 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
+    - title: 奇客资讯网
+      logo: https://api.iowen.cn/favicon/solidot.org/logo.png
+      url: https://www.solidot.org
+      description: 主要面对开源自由软件和关心科技资讯读者群
 
 - taxonomy: 媒体资讯
   icon: fas fa-newspaper fa-lg
   list:
     - term: 科技软件
       links:
-        - title: 奇客资讯网
-          logo: https://api.iowen.cn/favicon/solidot.org/logo.png
-          url: https://www.solidot.org
-          description: 主要面对开源自由软件和关心科技资讯读者群
         - title: 小众软件
           logo: https://api.iowen.cn/favicon/www.appinn.com.png
           url: https://www.appinn.com
@@ -75,14 +71,10 @@
           logo: https://api.iowen.cn/favicon/www.mvcat.com/img/logo_appicon.png
           url: https://www.mvcat.com
           description: 选部电影来看
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dydytt.net/index2.htm
-          description: 电影天堂（DYTT8），高清电影下载
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载
+        - title: DDYS 影视
+          logo: https://api.iowen.cn/favicon/ddys.tv.png
+          url: https://ddys.tv
+          description: 低端影视高质量线上影库
     - term: 游戏竞技
       links:
         - title: 在线DOS游戏
