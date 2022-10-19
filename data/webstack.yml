@@ -35,10 +35,7 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
-    - title: Hiplot
-      logo: https://api.iowen.cn/favicon/hiplot-academic.com/favico.png
-      url: https://hiplot-academic.com/
-      description: 综合性生物医学可视化分析工具箱
+    
     
 
 - taxonomy: 媒体资讯
@@ -81,11 +78,11 @@
           url: https://www.mvcat.com
           description: 选部电影来看
         - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
+          logo: 电影天堂DYTT8.png
+          url: https://www.dydytt.net/index2.htm
           description: 电影天堂（DYTT8），高清电影下载
         - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
+          logo: 电影天堂DYGOD.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载
     - term: 游戏竞技
@@ -94,10 +91,6 @@
           logo: https://api.iowen.cn/favicon/dos.zczc.cz.png
           url: https://dos.zczc.cz/
           description: 回忆那个时代的游戏
-        - title: LOL
-          logo: https://api.iowen.cn/favicon/lol.qq.com.png
-          url: https://lol.qq.com
-          description: 拳头公司的拳头产品
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
@@ -188,7 +181,7 @@
           logo: 有道词典.png
           url: http://fanyi.youdao.com/
           description: 机翻和人工付费翻译
-    - term: 办公学习
+    - term: 工具学习
       links:
         - title: Excalidraw
           logo: https://api.iowen.cn/favicon/excalidraw.com.png
@@ -206,6 +199,38 @@
           url: https://app.diagrams.net
           logo: https://api.iowen.cn/favicon/app.diagrams.net/favicon.png
           description: diagrams在线白图表工具
+        - title: Hiplot
+          logo: https://api.iowen.cn/favicon/hiplot-academic.com/favico.png
+          url: https://hiplot-academic.com/
+          description: 综合性生物医学可视化分析工具箱
+        - title: MPEditor
+          logo: https://api.iowen.cn/favicon/js8.in.png
+          url: http://js8.in/mpeditor/
+          description: 微信公众号 Markdown 编辑器
+        - title: Doocs
+          logo: https://api.iowen.cn/favicon/doocs.github.io.png
+          url: https://doocs.github.io/md/
+          description: 一款高度简洁的微信 Markdown 编辑器
+        - title: Compress PNG to 100KB
+          logo: https://api.iowen.cn/favicon/jpgtopngconverter.com/img/favicon.png
+          url: https://jpgtopngconverter.com/compress-png-to-100kb/
+          description: 压缩图片到特定大小
+        - title: 自由钢琴
+          logo: https://api.iowen.cn/favicon/www.autopiano.cn/favico.png
+          url: https://www.autopiano.cn/
+          description: 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
+        - title: Typing Practice
+          logo: https://api.iowen.cn/favicon/www.keybr.com/favico.png
+          url: https://www.keybr.com/
+          description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
+        - title: Arya - 在线 Markdown 编辑器
+          logo: https://api.iowen.cn/favicon/markdown.lovejade.cn/img/icons/apple-touch-icon.png
+          url: https://markdown.lovejade.cn/
+          description: Arya，是一款基于 Vue、Vditor，为未来而构建的在线 Markdown 编辑器
+        - title: Picdiet - 极速在线压缩80%图片体积
+          logo: https://api.iowen.cn/favicon/www.picdiet.com/favico.png
+          url: https://www.picdiet.com/zh-cn
+          description: Picdiet是一款用JavaScript编写而成的图片压缩神器
     - term: 博客论坛
       links:
         - title: Inoreader
@@ -232,23 +257,4 @@
           url: https://www.yinwang.org/
           logo: default.webp
           description: 王垠的博客
-
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）
         
