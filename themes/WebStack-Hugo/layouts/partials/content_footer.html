@@ -19,7 +19,7 @@
                 </a>
             </div>
             <div class="footer-inner">
-                <div class="footer-text">{{ replace $.Site.Params.footer.copyright "{year}" now.Year v{ .Hugo.Version }| markdownify }}</div>
+                <div class="footer-text">{{ replace $.Site.Params.footer.copyright "{year}" now.Year v{.Site.Hugo.Version}| markdownify }}</div>
             </div>
         </footer>
     </div><!-- main-content end -->
