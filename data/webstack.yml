@@ -68,7 +68,7 @@
           url: https://www.mvcat.com
           description: 选部电影来看
         - title: DDYS 影视
-          logo: hddys.tv.png
+          logo: ddys.tv.png
           url: https://ddys.tv
           description: 低端影视高质量线上影库
     - term: 游戏竞技
@@ -183,7 +183,7 @@
           description: 免费在线作图、实时协作
         - title: Flowchart Maker Online Diagram Software
           url: https://app.diagrams.net
-          logo: https://api.iowen.cn/favicon/app.diagrams.net/favicon.png
+          logo: diagrams.png
           description: diagrams在线白图表工具
         - title: Hiplot
           logo: hiplot.png
