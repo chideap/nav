@@ -5,19 +5,19 @@
   links: 
     - title: 驱动之家新闻中心
       logo: https://api.iowen.cn/favicon/news.mydrivers.com.png
-      url: news.mydrivers.com.png
+      url: https://news.mydrivers.com/blog/
       description: 驱动之家新闻中心
     - title: 指数 ETF
       logo: https://api.iowen.cn/favicon/www.jisilu.cn.png
-      url: www.jisilu.cn.png
+      url: https://www.jisilu.cn/data/etf/#index
       description: 集思录指数 ETF 
     - title: 财联社电报
       logo: https://api.iowen.cn/favicon/m.cls.cn.png
-      url: m.cls.cn.png
+      url: https://www.cls.cn/telegraph
       description: 财联社7*24小时
-    - title: 简单
-      logo: https://api.iowen.cn/favicon/i.jandan.net.png
-      url: i.jandan.net.png
+    - title: 煎蛋
+      logo: i.jandan.net.png
+      url: https://i.jandan.net/
       description: 煎蛋无聊图
     - title: Hacker News
       url: https://news.ycombinator.com/
@@ -28,7 +28,7 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
     - title: 奇客资讯网
-      logo: solidotlogo.png
+      logo: https://api.iowen.cn/favicon/solidot.org/logo.png
       url: https://www.solidot.org
       description: 主要面对开源自由软件和关心科技资讯读者群
 
@@ -39,7 +39,7 @@
       links:
         - title: 小众软件
           logo: https://api.iowen.cn/favicon/www.appinn.com.png
-          url: www.appinn.com.png
+          url: https://www.appinn.com
           description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
         - title: 超能网
           logo: https://api.iowen.cn/favicon/www.expreview.com.png
