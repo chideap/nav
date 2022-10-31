@@ -115,10 +115,10 @@
           url: https://ctext.org/zhs
           logo: 百家诸子.png
           description: 全球最大的中国古籍资料库和检索系统，将中国的古代哲学书及其相关的原典文献加以电子化
-        - title: Sci-Hub对每个人的知识
+        - title: Sci-Hub
           url: https://sci-hub.se/
           logo: sci-hub.se.png
-          description: Sci-Hub网站，论文资料查询
+          description: 根据DOI查询学术期刊
         - title: E-book library. Search and download for free, instantly
           url: https://vdoc.pub/
           logo: vdoc.pub.png
