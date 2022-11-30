@@ -73,6 +73,10 @@
           description: 低端影视高质量线上影库
     - term: 游戏竞技
       links:
+        - title: 在线玩CS1.6
+        logo: default.webp
+        url: http://playcsol.com
+        description: 在线联机玩CS1.6无需客户端
         - title: 在线DOS游戏
           logo: dos.zczc.cz.png
           url: https://dos.zczc.cz/
