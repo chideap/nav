@@ -34,4 +34,4 @@ publishDir = "docs"
     unsafe = true
 
 [params.footer]
-    copyright = '这儿是 Hello Nav，联系邮箱：y5l838ge@duck.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Hello Nav](https://n.724365.xyz) | [❤{{ .Site.Hugo.Version }}](https://gohugo.io/)<br/>'
+    copyright = '这儿是 Hello Nav，联系邮箱：y5l838ge@duck.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Hello Nav](https://n.724365.xyz) | [❤](https://gohugo.io/)<br/>'
