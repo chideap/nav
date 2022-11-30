@@ -74,9 +74,9 @@
     - term: 游戏竞技
       links:
         - title: 在线玩CS1.6
-        logo: default.webp
-        url: http://playcsol.com
-        description: 在线联机玩CS1.6无需客户端
+          logo: default.webp
+          url: http://playcsol.com
+          description: 不用客户端在线玩CS1.6     
         - title: 在线DOS游戏
           logo: dos.zczc.cz.png
           url: https://dos.zczc.cz/
