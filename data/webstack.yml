@@ -74,11 +74,11 @@
     - term: 游戏竞技
       links:
         - title: 在线玩CS1.6
-          logo: default.webp
+          logo: playcsol.png
           url: http://playcsol.com
           description: 不用客户端在线玩CS1.6
         - title: 回忆童年的游戏
-          logo: default.webp
+          logo: yikm.png
           url: https://www.yikm.net/
           description: 希望大家可以找回童年的快乐
         - title: 在线DOS游戏
