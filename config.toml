@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [params]
     author        = "Hiworld"
-    description   = "Hello Nav 自用在线导航"
+    description   = "自用在线导航"
     siteurl       = "./"
     about         = "./about"   # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/chideap/nav"  
