@@ -1,0 +1,254 @@
+---
+
+- taxonomy: 经常访问
+  icon: far fa-star
+  links: 
+    - title: 驱动之家新闻中心
+      logo: news.mydrivers.com.png
+      url: https://news.mydrivers.com/blog/
+      description: 驱动之家新闻中心
+    - title: 指数 ETF
+      logo: www.jisilu.cn.png
+      url: https://www.jisilu.cn/data/etf/#index
+      description: 集思录指数 ETF 
+    - title: 财联社电报
+      logo: m.cls.cn.png
+      url: https://www.cls.cn/telegraph
+      description: 财联社7*24小时
+    - title: 煎蛋
+      logo: i.jandan.net.png
+      url: https://i.jandan.net/
+      description: 煎蛋无聊图
+    - title: Hacker News
+      url: https://news.ycombinator.com/
+      logo: hacker-news.jpg
+      description: 关于计算机黑客和创业公司的社会化新闻网站
+    - title: V2EX
+      logo: v2ex.jpg
+      url: https://www.v2ex.com/
+      description: V2EX 创意工作者的社区
+    - title: 奇客资讯网
+      logo: solidotlogo.png
+      url: https://www.solidot.org
+      description: 主要面对开源自由软件和关心科技资讯读者群
+
+- taxonomy: 媒体资讯
+  icon: fas fa-newspaper fa-lg
+  list:
+    - term: 科技软件
+      links:
+        - title: 小众软件
+          logo: www.appinn.com.png
+          url: https://www.appinn.com
+          description: 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
+        - title: 超能网
+          logo: www.expreview.com.png
+          url: https://www.expreview.com/
+          description: 科技生活
+        - title: 爱活网
+          logo: www.evolife.cn.png
+          url: https://www.evolife.cn
+          description: 科技进化生活，关注数码、科技、生活方式和消费升级
+        - title: 爱范儿
+          logo: www.ifanr.com.png
+          url: https://www.ifanr.com/
+          description: 聚焦新创和消费主题的科技媒体
+        - title: 少数派
+          logo: sspai.com.png
+          url: https://sspai.com
+          description: 少数派 - 高效工作，品质生活
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-magic fa-lg
+  list:
+    - term: 影音视频
+      links:
+        - title: MVCAT
+          logo: MVCAT.png
+          url: https://www.mvcat.com
+          description: 选部电影来看
+        - title: DDYS 影视
+          logo: ddys.tv.png
+          url: https://ddys.tv
+          description: 低端影视高质量线上影库
+        - title: BDYS 哔嘀影视
+          logo: default.webp
+          url: https://www.bdys03.com/
+          description: 哔嘀影视
+        - title: 独播库
+          logo: default.webp
+          url: https://www.duboku.tv/
+          description: 独播库
+    - term: 游戏竞技
+      links:
+        - title: 在线玩CS1.6
+          logo: playcsol.png
+          url: http://playcsol.com
+          description: 不用客户端在线玩CS1.6
+        - title: 回忆童年的游戏
+          logo: yikm.png
+          url: https://www.yikm.net/
+          description: 希望大家可以找回童年的快乐
+        - title: 在线DOS游戏
+          logo: dos.zczc.cz.png
+          url: https://dos.zczc.cz/
+          description: 回忆那个时代的游戏
+
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 书籍资料
+      links:
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载
+        - title: 鸠摩搜索
+          url: https://www.jiumodiary.com/
+          logo: jiumodiary.png
+          description: 图书搜索
+        - title: 全国图书馆参考咨询联盟
+          url: https://www.ucdrs.superlib.net
+          logo: default.webp
+          description: 图书信息和图书馆，非常全面
+        - title: 问津搜索
+          url: http://find.nlc.cn/
+          logo: www.nlc.cn.png
+          description: 国图文津图书信息搜索
+        - title: 首个基于EOS和IPFS的去中心化知识共享社区
+          url: https://ebook2.lorefree.com/
+          logo: lorefree.png
+          description: Empowering everyone to build reliable and efficient software
+        - title: 书格
+          url: https://new.shuge.org/
+          logo: shugeorg-icon.png
+          description: 書格是一个自由开放的在线古籍图书馆
+        - title: 中国哲学书电子化计划
+          url: https://ctext.org/zhs
+          logo: 百家诸子.png
+          description: 全球最大的中国古籍资料库和检索系统，将中国的古代哲学书及其相关的原典文献加以电子化
+        - title: Sci-Hub
+          url: https://sci-hub.se/
+          logo: sci-hub.se.png
+          description: 根据DOI查询学术期刊
+        - title: E-book library. Search and download for free, instantly
+          url: https://vdoc.pub/
+          logo: vdoc.pub.png
+          description: Our website have hundred thousands of free e-books and documents for students.
+    - term: 英语词典
+      links:
+        - title: 朗文在线英语词典
+          url: https://www.ldoceonline.com/
+          logo: www.ldoceonline.com.png
+          description: 单词皆是真人发音，内容全面
+        - title: Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
+          logo: thefreedictionary.png
+          url: https://www.thefreedictionary.com/
+          description: 近义词非常有特点
+        - title: 牛津OED
+          logo: www.oed.com.png
+          url: https://www.oed.com/
+          description: 牛津OED需要付费才能使用
+        - title: 柯林斯在线英语词典
+          logo: english.png
+          url: https://www.collinsdictionary.com/zh/dictionary/english
+          description: 柯林斯免费在线英语词典
+        - title: 剑桥在线英语词典
+          logo: zhs.png
+          url: https://dictionary.cambridge.org/zhs/
+          description: 剑桥在线英语词典
+        - title: 金山词霸
+          logo: www.iciba.com.png
+          url: http://www.iciba.com/
+          description: 国内很多年的老牌词典，也有翻译
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译
+    - term: 在线翻译
+      links:      
+        - title: Deepl翻译
+          logo: translator.png
+          url: https://www.deepl.com/translator
+          description: 翻译文字和文档
+        - title: lingva翻译
+          logo: 谷歌翻译.jpg
+          url: https://lingva.ml/
+          description: Alternative front-end for Google Translate
+        - title: 百度翻译
+          logo: fanyi.baidu.com.png
+          url: https://fanyi.baidu.com/
+          description: 查词、翻译和人工付费翻译
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 机翻和人工付费翻译
+    - term: 工具学习
+      links:
+        - title: Excalidraw
+          logo: excalidraw.com.png
+          url: https://excalidraw.com/
+          description: Excalidraw 在线白板工具
+        - title: Koodo Reade在线阅读器
+          logo: Koodo.png
+          url: https://reader.960960.xyz/
+          description: Free Epub Reader for Windows, Mac and Web
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作
+        - title: Flowchart Maker Online Diagram Software
+          url: https://app.diagrams.net
+          logo: diagrams.png
+          description: diagrams在线白图表工具
+        - title: Hiplot
+          logo: hiplot.png
+          url: https://hiplot-academic.com/
+          description: 综合性生物医学可视化分析工具箱
+        - title: MPEditor
+          logo: default.webp
+          url: http://js8.in/mpeditor/
+          description: 微信公众号 Markdown 编辑器
+        - title: Doocs
+          logo: default.webp
+          url: https://doocs.github.io/md/
+          description: 一款高度简洁的微信 Markdown 编辑器
+        - title: Compress PNG to 100KB
+          logo: CompressPNG.png
+          url: https://jpgtopngconverter.com/compress-png-to-100kb/
+          description: 压缩图片到特定大小
+        - title: 自由钢琴
+          logo: 自由钢琴.png
+          url: https://www.autopiano.cn/
+          description: 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
+        - title: Typing Practice
+          logo: keybr.png
+          url: https://www.keybr.com/
+          description: 键盘练习 Take a typing test, practice typing lessons, learn to type faster.
+        - title: Arya - 在线 Markdown 编辑器
+          logo: Arya.png
+          url: https://markdown.lovejade.cn/
+          description: Arya，是一款基于 Vue、Vditor，为未来而构建的在线 Markdown 编辑器
+        - title: Picdiet - 极速在线压缩80%图片体积
+          logo: Picdiet.png
+          url: https://www.picdiet.com/zh-cn
+          description: Picdiet是一款用JavaScript编写而成的图片压缩神器
+    - term: 博客论坛
+      links:
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: coolshell.png
+          description: 酷 壳 – CoolShell
+        - title: 王垠
+          url: https://www.yinwang.org/
+          logo: default.webp
+          description: 王垠的博客
+        
