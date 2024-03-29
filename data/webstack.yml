@@ -243,10 +243,6 @@
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
           description: 阮一峰，科技爱好者周刊
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: coolshell.png
-          description: 酷 壳 – CoolShell
         - title: 王垠
           url: https://www.yinwang.org/
           logo: default.webp
