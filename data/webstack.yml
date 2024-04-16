@@ -237,6 +237,14 @@
           logo: Picdiet.png
           url: https://www.picdiet.com/zh-cn
           description: Picdiet是一款用JavaScript编写而成的图片压缩神器
+        - title: Remove.bg - 在线抠图软件_图片去除背景
+          logo: default.webp
+          url: https://remove.bg
+          description: Remove.bg 在线抠图软件图片去除背景
+        - title: DiG GUI - DiG Online
+          logo: default.webp
+          url: https://www.diggui.com/
+          description: DiG GUI Dig web版
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
