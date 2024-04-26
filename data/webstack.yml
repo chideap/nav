@@ -195,7 +195,7 @@
           description: Excalidraw 在线白板工具
         - title: Koodo Reade在线阅读器
           logo: Koodo.png
-          url: https://reader.960960.xyz/
+          url: https://read.724365.xyz/#/manager/home
           description: Free Epub Reader for Windows, Mac and Web
         - title: ProcessOn
           logo: ProcessOn.png
@@ -245,6 +245,14 @@
           logo: default.webp
           url: https://www.diggui.com/
           description: DiG GUI Dig web版
+        - title: ASN Report
+          logo: default.webp
+          url: http://www.cidr-report.org/as2.0/
+          description: ASN Report
+        - title: HTML Standard
+          logo: default.webp
+          url: https://whatwg-cn.github.io/html/multipage/
+          description: HTML Standard 未完全翻译
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
