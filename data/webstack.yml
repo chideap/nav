@@ -195,7 +195,7 @@
           description: Excalidraw 在线白板工具
         - title: Koodo Reade在线阅读器
           logo: Koodo.png
-          url: https://read.724365.xyz/#/manager/home
+          url: https://read.724365.xyz/
           description: Free Epub Reader for Windows, Mac and Web
         - title: ProcessOn
           logo: ProcessOn.png
