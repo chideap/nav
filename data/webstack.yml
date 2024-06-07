@@ -253,6 +253,18 @@
           logo: default.webp
           url: https://whatwg-cn.github.io/html/multipage/
           description: HTML Standard 未完全翻译
+        - title: vecta SVG editor
+          logo: default.webp
+          url: https://vecta.io/
+          description: Powerful, online SVG editor for teams
+        - title: PWABuilder
+          logo: default.webp
+          url: https://www.pwabuilder.com/imageGenerator
+          description: All the tools you need to build and deploy your Progressive Web Apps
+        - title: SVG Viewer
+          logo: default.webp
+          url: https://www.svgviewer.dev/
+          description: SVG Viewer is an online tool to view, edit and optimize SVGs
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
