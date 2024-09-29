@@ -265,6 +265,14 @@
           logo: default.webp
           url: https://www.svgviewer.dev/
           description: SVG Viewer is an online tool to view, edit and optimize SVGs
+        - title: AI Background Remover
+          logo: default.webp
+          url: https://html.zone/background-remover
+          description: AI Background Remover
+        - title: Favicon InBrowser
+          logo: default.webp
+          url: https://favicon.inbrowser.app/tools/favicon-generator
+          description: Favicon InBrowser.App is a tool to generate favicon. Fully runs in your browser. No server-side code.
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
