@@ -272,7 +272,11 @@
         - title: Favicon InBrowser
           logo: default.webp
           url: https://favicon.inbrowser.app/tools/favicon-generator
-          description: Favicon InBrowser.App is a tool to generate favicon. Fully runs in your browser. No server-side code.
+          description: Fully runs in your browser. No server-side code.
+        - title: Free Tools by Baseline
+          logo: default.webp
+          url: https://baseline.is/tools/
+          description: Free Tools by Baseline
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
@@ -283,4 +287,8 @@
           url: https://www.yinwang.org/
           logo: default.webp
           description: 王垠的博客
+        - title: 江宏
+          url: https://1byte.io/
+          logo: https://1byte.io//apple-touch-icon.png
+          description: 江宏的博客
         
