@@ -277,6 +277,10 @@
           logo: default.webp
           url: https://baseline.is/tools/
           description: Free Tools by Baseline
+        - title: cloudflare.dns.surf
+          logo: default.webp
+          url: https://cloudflare.dns.surf
+          description: 依托cloudflare全球多地区DNS查询
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
