@@ -281,7 +281,7 @@
           logo: default.webp
           url: https://cloudflare.dns.surf
           description: 依托cloudflare全球多地区DNS查询
-          - title: paint board
+        - title: paint board
           logo: default.webp
           url: https://songlh.top/paint-board/
           description: paint-board
