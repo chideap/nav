@@ -282,7 +282,7 @@
           url: https://cloudflare.dns.surf
           description: 依托cloudflare全球多地区DNS查询
         - title: paint board
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=cloudflare.dns.surf
           url: https://songlh.top/paint-board/
           description: paint-board
     - term: 博客论坛
@@ -297,6 +297,6 @@
           description: 王垠的博客
         - title: 江宏
           url: https://1byte.io/
-          logo: https://1byte.io/apple-touch-icon.png
+          logo: https://f.724365.xyz/?url=1byte.io
           description: 江宏的博客
         
