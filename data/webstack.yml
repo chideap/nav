@@ -254,27 +254,27 @@
           url: https://whatwg-cn.github.io/html/multipage/
           description: HTML Standard 未完全翻译
         - title: vecta SVG editor
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=vecta.io
           url: https://vecta.io/
           description: Powerful, online SVG editor for teams
         - title: PWABuilder
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=www.pwabuilder.com
           url: https://www.pwabuilder.com/imageGenerator
           description: All the tools you need to build and deploy your Progressive Web Apps
         - title: SVG Viewer
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=www.svgviewer.dev
           url: https://www.svgviewer.dev/
           description: SVG Viewer is an online tool to view, edit and optimize SVGs
         - title: AI Background Remover
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=html.zone
           url: https://html.zone/background-remover
           description: AI Background Remover
         - title: Favicon InBrowser
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=favicon.inbrowser.app
           url: https://favicon.inbrowser.app/tools/favicon-generator
           description: Fully runs in your browser. No server-side code.
         - title: Free Tools by Baseline
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=baseline.is
           url: https://baseline.is/tools/
           description: Free Tools by Baseline
         - title: cloudflare.dns.surf
@@ -293,7 +293,7 @@
           description: 阮一峰，科技爱好者周刊
         - title: 王垠
           url: https://www.yinwang.org/
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=/www.yinwang.org
           description: 王垠的博客
         - title: 江宏
           url: https://1byte.io/
