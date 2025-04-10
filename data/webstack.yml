@@ -278,11 +278,11 @@
           url: https://baseline.is/tools/
           description: Free Tools by Baseline
         - title: cloudflare.dns.surf
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=cloudflare.dns.surf
           url: https://cloudflare.dns.surf
           description: 依托cloudflare全球多地区DNS查询
         - title: paint board
-          logo: https://f.724365.xyz/?url=cloudflare.dns.surf
+          logo: https://f.724365.xyz/?url=songlh.top
           url: https://songlh.top/paint-board/
           description: paint-board
     - term: 博客论坛
