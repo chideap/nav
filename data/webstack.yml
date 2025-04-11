@@ -76,7 +76,7 @@
           url: https://www.bdys03.com/
           description: 哔嘀影视
         - title: 独播库
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=www.duboku.tv
           url: https://www.duboku.tv/
           description: 独播库
     - term: 游戏竞技
@@ -214,7 +214,7 @@
           url: http://js8.in/mpeditor/
           description: 微信公众号 Markdown 编辑器
         - title: Doocs
-          logo: default.webp
+          logo: https://f.724365.xyz/?url=doocs.github.io
           url: https://doocs.github.io/md/
           description: 一款高度简洁的微信 Markdown 编辑器
         - title: Compress PNG to 100KB
@@ -293,7 +293,7 @@
           description: 阮一峰，科技爱好者周刊
         - title: 王垠
           url: https://www.yinwang.org/
-          logo: https://f.724365.xyz/?url=/www.yinwang.org
+          logo: https://f.724365.xyz/?url=www.yinwang.org
           description: 王垠的博客
         - title: 江宏
           url: https://1byte.io/
